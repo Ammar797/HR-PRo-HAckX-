@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887207225826",
+    "project_id": "hr-pro-b3555",
+    "storage_bucket": "hr-pro-b3555.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887207225826:android:fce325fc8bbd9ccb0f71bb",
+        "android_client_info": {
+          "package_name": "easy.tuto.notespro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ3pymN0yTus_t5SpHzJaG0hSoPQ7NGjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
